@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(180deg, #6142DE 0%, #000000 100.9%);
+  font-family: 'Rubik', sans-serif;
+  color: #FFF;
+  height: 100vh;
+}
+
+body, input, button, textarea {
+  font: 400 16px 'Rubik', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
